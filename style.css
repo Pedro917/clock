@@ -17,7 +17,7 @@ body{
 
 .box-logo img{
     width: 450px;
-    margin: 50px 0 40px 0;
+    margin: 50px 0 30px 0;
 }
 
 /* Relogio */
@@ -30,6 +30,7 @@ body{
 #time{
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 
 #clock #time{
