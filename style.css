@@ -17,7 +17,7 @@ body{
 
 .box-logo img{
     width: 450px;
-    margin: 100px 0 75px 0;
+    margin: 50px 0 40px 0;
 }
 
 /* Relogio */
@@ -95,9 +95,11 @@ body{
 @media(min-width: 770px){
     .box-logo img{
         width: 600px;
+        margin: 100px 0 75px 0;
     }
 
     .footer p{
         display: block;
     }
+
 }
